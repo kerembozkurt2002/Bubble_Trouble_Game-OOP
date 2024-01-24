@@ -1,6 +1,6 @@
 /**
  * Ball class has Ball related variables, constants and Ball movement in X and Y axis movement methods, Ball's data fields get, set and making radius methods
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 16.04.2023
  */
 public class Ball {
