@@ -1,6 +1,6 @@
 /**
  * Bar class has Bar related variables, constants and Bar moment method and Bar draw, sets Bar's color and weight methods
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 16.04.2023
  */
 public class Bar {
