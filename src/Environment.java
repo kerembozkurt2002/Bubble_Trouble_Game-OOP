@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * Environment class has game loop method, draw the final picture method, restart or quit the game method, control Arrow hits Ball or Ball hits Player methods and constants
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 16.04.2023
  */
 public class Environment {
