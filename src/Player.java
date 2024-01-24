@@ -1,7 +1,7 @@
 import java.awt.event.KeyEvent;
 /**
  * Player class has Player related constants, Player moment methods and Player's data fields get and set methods
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 16.04.2023
  */
 public class Player {
