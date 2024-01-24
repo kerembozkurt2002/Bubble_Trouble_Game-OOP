@@ -1,7 +1,7 @@
 import java.awt.event.KeyEvent;
 /**
  * Arrow class has Arrow related variables, constants, Arrow moment methods and Arrow's data fields get, set and plus methods
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 16.04.2023
  */
 public class Arrow {
